@@ -108,7 +108,7 @@ Como eu ja tinha tudo isso instalado e ja sabia como funiona, não tera nada ano
 - Basicamente uma documentação integrada dentro do python
 
 ## Links Úteis
-- (wiki python)[https://wiki.python.org.br/ModoInterativo]
+- [wiki python](https://wiki.python.org.br/ModoInterativo)
 
 # Variáveis e constantes
 - **Variaveis:** São locais em minha memoria onde eu posso armazenar um valor.
@@ -144,11 +144,13 @@ print(preco)
 
 preco = float(preco)
 print(preco)
->>> 10.0 # Adicionamos um ponto flutuante ao numero usando um construtor do python
+>>> 10.0 # Adicionamos um ponto flutuante ao numero usando
+# um construtor do python
 
 preco = 10 / 2
 print(preco)
->>> 5.0 # Convertemos para float por que todo resultado de divisão em python vai ser float
+>>> 5.0 # Convertemos para float por que todo resultado de
+# divisão em python vai ser float
 ```
 - Se eu utilizar "//" na hora de fazer uma divisão em python, ele preserva o valor em inteiro
 
